@@ -1,1 +1,157 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Buwan ng Wika</title>
+</head>
 
+<body style="background-color:#fff8e7; font-family:Arial;">
+
+    <!-- HTML Heading -->
+    <h1 style="text-align:center; color:#8B0000;">
+        BUWAN NG WIKA
+    </h1>
+
+    <h2 style="text-align:center; color:#006400;">
+        "Wikang Filipino: Wika ng Pagkakaisa at Pagkakakilanlan"
+    </h2>
+
+    <hr>
+
+    <!-- HTML Paragraph -->
+    <h2 style="color:#8B0000;">Ano ang Buwan ng Wika?</h2>
+
+    <p style="font-size:18px; text-align:justify;">
+        Ang <b>Buwan ng Wika</b> ay isang mahalagang pagdiriwang sa Pilipinas
+        na ginaganap tuwing buwan ng Agosto. Layunin nitong bigyang-halaga,
+        pagyamanin, at ipagmalaki ang wikang Filipino at ang iba't ibang
+        wika na ginagamit sa ating bansa. Sa pamamagitan ng pagdiriwang na ito,
+        naipapakita natin ang pagmamahal sa ating sariling wika, kultura,
+        tradisyon, at kasaysayan.
+    </p>
+
+    <p style="font-size:18px; text-align:justify;">
+        Ang Pilipinas ay isang bansang mayaman sa iba't ibang wika at kultura.
+        Bukod sa Filipino at Ingles, marami ring katutubong wika ang ginagamit
+        sa iba't ibang rehiyon. Ang bawat wika ay may sariling kasaysayan,
+        tradisyon, at paraan ng pagpapahayag. Dahil dito, mahalagang igalang
+        at pahalagahan ang lahat ng wika sa ating bansa.
+    </p>
+
+    <!-- Kahalagahan -->
+    <h2 style="color:#8B0000;">Kahalagahan ng Wikang Filipino</h2>
+
+    <p style="font-size:18px; text-align:justify;">
+        Ang wika ay mahalaga dahil ito ang pangunahing paraan ng pakikipag-
+        ugnayan ng mga tao. Sa pamamagitan ng wika, naipapahayag natin ang
+        ating mga saloobin, ideya, damdamin, kaalaman, at karanasan. Ito rin
+        ang ginagamit upang maipasa sa mga kabataan ang mga aral at tradisyon
+        na nagmula sa mga naunang henerasyon.
+    </p>
+
+    <p style="font-size:18px; text-align:justify;">
+        Ang wikang Filipino ay nagsisilbing tulay ng pagkakaisa. Kahit may
+        iba't ibang rehiyon, kultura, at katutubong wika sa Pilipinas,
+        nagkakaroon tayo ng paraan upang magkaintindihan at magtulungan.
+        Sa paggamit ng sariling wika, mas naipapakita natin ang ating
+        pagiging isang tunay na Pilipino.
+    </p>
+
+    <!-- HTML Elements -->
+    <h2 style="color:#8B0000;">Mga Paraan ng Pagdiriwang</h2>
+
+    <ul style="font-size:18px;">
+        <li>Pagsusuot ng tradisyonal na kasuotang Pilipino.</li>
+        <li>Pagbigkas ng mga tula at talumpati.</li>
+        <li>Pagsasagawa ng mga paligsahan sa pagsulat.</li>
+        <li>Pag-awit ng mga awiting Pilipino.</li>
+        <li>Pagpapakita ng mga katutubong sayaw.</li>
+        <li>Pagsasagawa ng mga larong Pilipino.</li>
+        <li>Pagkukuwento tungkol sa kulturang Pilipino.</li>
+        <li>Pagbuo ng mga poster at slogan tungkol sa wika.</li>
+        <li>Pagdaraos ng mga programang pangkultura sa paaralan.</li>
+    </ul>
+
+    <!-- Mga Wika -->
+    <h2 style="color:#8B0000;">Iba't Ibang Wika sa Pilipinas</h2>
+
+    <p style="font-size:18px; text-align:justify;">
+        Maraming wika ang ginagamit sa Pilipinas. Kabilang dito ang Filipino,
+        Cebuano, Ilokano, Hiligaynon, Waray, Kapampangan, Pangasinan,
+        Bikol, Maranao, Tausug, at marami pang iba. Ang pagkakaroon ng
+        iba't ibang wika ay nagpapakita kung gaano kayaman ang kultura
+        at kasaysayan ng ating bansa.
+    </p>
+
+    <p style="font-size:18px; text-align:justify;">
+        Hindi dapat maging dahilan ang pagkakaiba ng wika upang magkaroon
+        ng pagkakahati-hati. Sa halip, dapat itong maging dahilan upang
+        higit nating kilalanin at respetuhin ang bawat kultura at
+        pamayanan sa Pilipinas.
+    </p>
+
+    <!-- HTML Attribute -->
+    <h2 style="color:#8B0000;">Mensahe Para sa Kabataan</h2>
+
+    <p title="Mensahe tungkol sa pagpapahalaga sa wika"
+       style="font-size:18px; text-align:justify;">
+        Bilang kabataan, mahalagang gamitin natin nang tama at may respeto
+        ang ating sariling wika. Maaari nating gamitin ang Filipino sa
+        pakikipag-usap, pagsusulat, paggawa ng mga proyekto, at pagbabahagi
+        ng impormasyon. Sa simpleng paggamit ng ating wika, nakatutulong
+        tayo sa pagpapanatili at pagpapalaganap nito.
+    </p>
+
+    <!-- HTML Formatting -->
+    <h2 style="color:#8B0000;">Bakit Dapat Nating Ipagmalaki ang Wika?</h2>
+
+    <p style="font-size:18px; text-align:justify;">
+        Dapat nating <b>ipagmalaki</b> ang wikang Filipino dahil ito ay bahagi
+        ng ating <strong>pagkakakilanlan bilang Pilipino</strong>. Ang wika ay
+        hindi lamang isang paraan ng komunikasyon. Ito rin ay salamin ng
+        ating <i>kultura, kasaysayan, at tradisyon</i>.
+    </p>
+
+    <p style="font-size:18px; text-align:justify;">
+        Ang bawat salitang Filipino ay may kahulugan at kuwentong maaaring
+        magmula sa ating mga ninuno. Kaya naman, nararapat lamang na
+        <u>pangalagaan at gamitin nang wasto ang ating sariling wika</u>.
+    </p>
+
+    <!-- Listahan ng mga Pagpapahalaga -->
+    <h2 style="color:#8B0000;">Paano Natin Mapapahalagahan ang Wika?</h2>
+
+    <ol style="font-size:18px;">
+        <li>Gamitin nang wasto ang wikang Filipino.</li>
+        <li>Basahin ang mga akdang isinulat ng mga Pilipino.</li>
+        <li>Alamin ang kasaysayan ng ating wika.</li>
+        <li>Igalang ang iba't ibang wika sa Pilipinas.</li>
+        <li>Makilahok sa mga programang pangkultura.</li>
+        <li>Turuan ang iba na pahalagahan ang sariling wika.</li>
+        <li>Iwasang maliitin ang taong may ibang paraan ng pagsasalita.</li>
+    </ol>
+
+    <!-- Quote -->
+    <h2 style="color:#8B0000;">Isang Paalala</h2>
+
+    <p style="font-size:20px; text-align:center;">
+        <b>
+            "Ang wika ay hindi lamang salita; ito ay bahagi ng ating
+            pagkatao, kultura, at pagkakaisa."
+        </b>
+    </p>
+
+    <hr>
+
+    <!-- Footer -->
+    <div style="text-align:center; background-color:#006400; color:white; padding:20px;">
+        <h2>Maligayang Buwan ng Wika!</h2>
+        <p>
+            <b>Ipagmalaki. Gamitin. Pahalagahan.</b>
+        </p>
+        <p>
+            Wikang Filipino, ating yaman at pagkakakilanlan.
+        </p>
+    </div>
+
+</body>
+</html>
