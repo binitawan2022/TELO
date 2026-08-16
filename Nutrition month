@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nutrition Month</title>
+</head>
+
+<body>
+
+    <h1>🍎 NUTRITION MONTH</h1>
+    <hr>
+
+    <h2>Ano ang Nutrition Month?</h2>
+    <p>
+        Ang Nutrition Month ay isang pagdiriwang na naglalayong
+        palaganapin ang kaalaman tungkol sa wastong nutrisyon,
+        malusog na pagkain, at tamang pamumuhay.
+    </p>
+
+    <h2>Bakit Mahalaga ang Wastong Nutrisyon?</h2>
+    <p>
+        Mahalaga ang wastong nutrisyon dahil nagbibigay ito ng
+        enerhiya at sustansya na kailangan ng katawan upang
+        lumaki, maging malakas, at manatiling malusog.
+    </p>
+
+    <h2>Mga Masustansyang Pagkain</h2>
+    <ul>
+        <li>🥦 Gulay</li>
+        <li>🍌 Prutas</li>
+        <li>🥚 Itlog</li>
+        <li>🐟 Isda</li>
+        <li>🍚 Kanin at iba pang pagkaing may carbohydrates</li>
+        <li>🥛 Gatas</li>
+    </ul>
+
+    <h2>Mga Paraan Para Maging Malusog</h2>
+    <ol>
+        <li>Kumain ng iba't ibang masustansyang pagkain.</li>
+        <li>Uminom ng sapat na tubig.</li>
+        <li>Iwasan ang sobrang matatamis at maalat na pagkain.</li>
+        <li>Mag-ehersisyo o maging aktibo araw-araw.</li>
+        <li>Matulog nang sapat.</li>
+    </ol>
+
+    <h2>Nutrition Month Theme</h2>
+    <p>
+        Ang tema ng Nutrition Month ay maaaring magbago bawat taon.
+        Layunin nitong hikayatin ang mga Pilipino na bigyang-pansin
+        ang kanilang kalusugan at nutrisyon.
+    </p>
+
+    <h2>Mensahe</h2>
+    <p>
+        <b>“Kumain nang tama, maging malusog, at alagaan ang katawan!”</b>
+    </p>
+
+    <hr>
+
+    <p>
+        <b>Prepared by:</b> Aaron Chester F. Telo
+    </p>
+<a href="https://www.google.com/" target="_blank">Click Here</a>
+</body>
+</html>
