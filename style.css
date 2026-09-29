@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Aaron's Personal Homepage</title>
+
+    <!-- EXTERNAL CSS -->
+    <link rel="stylesheet" href="style.css">
+
+    <!-- INTERNAL CSS -->
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #eef3f8;
+            margin: 0;
+        }
+
+        header {
+            background-color: #17365d;
+            color: white;
+            padding: 40px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
+
+        nav {
+            background-color: #102a43;
+            padding: 15px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .section {
+            background-color: white;
+            border: 2px solid #17365d;
+            padding: 25px;
+            margin: 25px auto;
+            max-width: 900px;
+            border-radius: 12px;
+        }
+
+        #welcome {
+            text-align: center;
+            background-color: #dceeff;
+        }
+
+        #skills {
+            background-color: #f8fbff;
+        }
+
+        .card {
+            background-color: #edf5fc;
+            border: 1px solid #8aa9c4;
+            padding: 18px;
+            margin: 15px 0;
+            border-radius: 8px;
+        }
+
+        footer {
+            background-color: #17365d;
+            color: white;
+            text-align: center;
+            padding: 25px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <!-- HEADER -->
+    <header>
+        <h1>Welcome to My Homepage</h1>
+        <p>A Simple Website About Me, My Interests, and My Goals</p>
+    </header>
+
+    <!-- NAVIGATION -->
+    <nav>
+        <a href="#welcome">Home</a>
+        <a href="#about">About Me</a>
+        <a href="#hobbies">Hobbies</a>
+        <a href="#skills">Skills</a>
+        <a href="#goals">Goals</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- MAIN CONTENT -->
+    <main>
+
+        <!-- TABLE OF CONTENTS -->
+        <section class="section">
+            <h2>Table of Contents</h2>
+
+            <ol>
+                <li><a href="#welcome">Welcome</a></li>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#hobbies">My Hobbies</a></li>
+                <li><a href="#skills">My Skills</a></li>
+                <li><a href="#favorites">My Favorites</a></li>
+                <li><a href="#goals">My Goals</a></li>
+                <li><a href="#quote">My Favorite Quote</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ol>
+        </section>
+
+        <!-- WELCOME -->
+        <section id="welcome" class="section">
+
+            <h2>Welcome to My Homepage</h2>
+
+            <!-- INLINE CSS -->
+            <p style="font-size: 20px; color: #17365d; font-weight: bold;">
+                Hello and welcome to my personal homepage!
+            </p>
+
+            <p>
+                This website contains information about me, my hobbies,
+                interests, skills, favorites, and future goals. I created
+                this homepage as part of my HTML and CSS performance task.
+            </p>
+
+            <p>
+                I hope you enjoy exploring the different sections of my
+                website and learning more about me.
+            </p>
+
+        </section>
+
+        <!-- ABOUT ME -->
+        <section id="about" class="section">
+
+            <h2>About Me</h2>
+
+            <p>
+                Hello! My name is Aaron. I am a Grade 9 student who enjoys
+                learning new things and discovering different technologies.
+            </p>
+
+            <p>
+                I am interested in computers, mobile phones, games, music,
+                and other forms of technology. I also enjoy spending time
+                with friends and learning from my experiences.
+            </p>
+
+            <div class="card">
+                <h3>My Personality</h3>
+
+                <p>
+                    I consider myself hardworking, responsible, patient,
+                    creative, and willing to help others. I always try my
+                    best to complete my schoolwork and improve my skills.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>My School Life</h3>
+
+                <p>
+                    School is an important part of my life because it gives
+                    me opportunities to learn new subjects, meet people,
+                    work with classmates, and develop useful skills.
+                </p>
+            </div>
+
+        </section>
+
+        <!-- HOBBIES -->
+        <section id="hobbies" class="section">
+
+            <h2>My Hobbies</h2>
+
+            <p>
+                I have several hobbies that I enjoy doing during my free time.
+                These activities help me relax and have fun.
+            </p>
+
+            <div class="card">
+                <h3>🎮 Playing Games</h3>
+
+                <p>
+                    I enjoy playing mobile games because they are entertaining
+                    and challenging. Games can also help develop teamwork,
+                    strategy, and quick decision-making.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>🎵 Listening to Music</h3>
+
+                <p>
+                    Music is one of the things I enjoy when I am relaxing,
+                    studying, or traveling. I like discovering new songs
+                    and creating playlists.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>📱 Technology</h3>
+
+                <p>
+                    I am interested in smartphones, computers, applications,
+                    websites, and other types of technology. I enjoy learning
+                    how different devices and programs work.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>🚗 Cars</h3>
+
+                <p>
+                    I also enjoy learning about cars, including different
+                    models, engines, modifications, and car culture.
+                </p>
+            </div>
+
+        </section>
+
+        <!-- SKILLS -->
+        <section id="skills" class="section">
+
+            <h2>My Skills</h2>
+
+            <p>
+                Skills are important because they help us become better
+                at the things we do. Here are some skills that I am
+                developing:
+            </p>
+
+            <ul>
+                <li>Basic HTML and CSS</li>
+                <li>Communication</li>
+                <li>Creativity</li>
+                <li>Problem solving</li>
+                <li>Teamwork</li>
+                <li>Time management</li>
+                <li>Basic computer skills</li>
+                <li>Presentation skills</li>
+            </ul>
+
+        </section>
+
+        <!-- FAVORITES -->
+        <section id="favorites" class="section">
+
+            <h2>My Favorites</h2>
+
+            <div class="card">
+                <h3>Favorite Activity</h3>
+                <p>
+                    Playing games and listening to music during my free time.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Favorite Technology</h3>
+                <p>
+                    Smartphones because they allow us to communicate,
+                    take pictures, play games, watch videos, and access
+                    information.
+                </p>
+            </div>
+
+            <div class="card">
+                <h3>Favorite Subject</h3>
+                <p>
+                    Computer because I enjoy learning about technology,
+                    HTML, CSS, and creating webpages.
+                </p>
+            </div>
+
+        </section>
+
+        <!-- GOALS -->
+        <section id="goals" class="section">
+
+            <h2>My Goals</h2>
+
+            <p>
+                Having goals helps me stay motivated and focused. I want
+                to continue improving myself both in school and in my
+                personal life.
+            </p>
+
+            <h3>My Short-Term Goals</h3>
+
+            <ul>
+                <li>Improve my grades.</li>
+                <li>Complete my school activities on time.</li>
+                <li>Learn more about HTML and CSS.</li>
+                <li>Improve my communication skills.</li>
+                <li>Become more organized.</li>
+            </ul>
+
+            <h3>My Long-Term Goals</h3>
+
+            <ul>
+                <li>Finish my studies.</li>
+                <li>Build a successful career.</li>
+                <li>Become financially responsible.</li>
+                <li>Continue learning new skills.</li>
+                <li>Make my family proud.</li>
+            </ul>
+
+        </section>
+
+        <!-- QUOTE -->
+        <section id="quote" class="section">
+
+            <h2>My Favorite Quote</h2>
+
+            <p style="font-size: 22px; text-align: center;">
+                "Success comes from hard work, patience, and never giving up."
+            </p>
+
+            <p style="text-align: center;">
+                This quote reminds me that achieving goals takes time
+                and effort.
+            </p>
+
+        </section>
+
+        <!-- CONTACT -->
+        <section id="contact" class="section">
+
+            <h2>Contact</h2>
+
+            <p>
+                If you want to learn more about this website, you can
+                contact me through the information below.
+            </p>
+
+            <p><strong>Name:</strong> Aaron</p>
+            <p><strong>Email:</strong> myemail@example.com</p>
+            <p><strong>School:</strong> Grade 9</p>
+
+        </section>
+
+    </main>
+
+    <!-- FOOTER -->
+    <footer>
+
+        <p>© 2026 Aaron's Personal Homepage</p>
+
+        <p>
+            Created using HTML and CSS
+        </p>
+
+        <a href="#welcome" style="color: white;">
+            Back to Top
+        </a>
+
+    </footer>
+
+</body>
+</html>
