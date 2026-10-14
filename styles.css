@@ -1,0 +1,52 @@
+
+/* Element selector */
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right, #dbeafe, #f8fafc);
+    color: #1e293b;
+    margin: 0;
+    padding: 20px;
+}
+
+/* Element selector */
+nav, section {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    border: 2px solid #bfdbfe;
+    border-radius: 12px;
+}
+
+/* Element selector */
+a {
+    color: #1d4ed8;
+    text-decoration: none;
+}
+
+/* Pseudo-class selector */
+a:hover {
+    color: #dc2626;
+    text-decoration: underline;
+}
+
+/* Class selector */
+.highlight {
+    border-left: 5px solid #2563eb;
+    margin: 10px 0;
+}
+
+/* ID selector */
+#goals {
+    background-color: #f0f9ff;
+}
+
+/* Footer styling */
+footer {
+    background-color: #1e3a8a;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
